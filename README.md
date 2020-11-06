@@ -14,6 +14,7 @@ Should work on any ubuntu based distro, may or may not add support for debian.
 
 Type the following:
 `chmod +x ./Ubuntu_nvidia-DXVK_installer.sh` (Or whatever you named the file if you renamed it)
+
 `sudo ./Ubuntu_nvidia-DXVK_installer.sh`
 
 Then reboot! (`sudo reboot`)
