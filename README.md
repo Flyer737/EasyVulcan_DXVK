@@ -4,7 +4,7 @@ Should work on any ubuntu based distro, may or may not add support for debian.
 
 # How-to
 
-* Navigate to where the Ubuntu_nvidia-DXVK_installer.sh script
+* Navigate the Ubuntu_nvidia-DXVK_installer.sh script
 
 * Name the script something simpler if you desier because you're going to need to type the name of this file into a terminal later
 
