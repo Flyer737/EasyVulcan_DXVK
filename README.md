@@ -22,4 +22,5 @@ Then reboot! (`sudo reboot`)
 
 That's it :)
 Hit yes to everything. (Only take that advise if you really, deeply trust that person)
+
 Install lutris, steam, or whatever and game!
