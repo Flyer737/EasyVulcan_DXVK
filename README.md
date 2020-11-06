@@ -13,6 +13,7 @@ Should work on any ubuntu based distro, may or may not add support for debian.
 * Open a terminal and navigate to the directory that contains the script
 
 Type the following:
+
 `chmod +x ./Ubuntu_nvidia-DXVK_installer.sh` (Or whatever you named the file if you renamed it)
 
 `sudo ./Ubuntu_nvidia-DXVK_installer.sh`
